@@ -1,0 +1,152 @@
+{
+  "repository": {
+    "name": "instagram-profile-scraper",
+    "description": "Python, JavaScript and cURL examples for scraping public Instagram profile data through Apify.",
+    "homepage": "https://apify.com/datascraperes/instagram-profile-scraper-no-login?fpr=edudata",
+    "language": "Python",
+    "license": "MIT"
+  },
+  "actor": {
+    "displayName": "Instagram Profile Scraper",
+    "id": "datascraperes/instagram-profile-scraper-no-login",
+    "storeUrl": "https://apify.com/datascraperes/instagram-profile-scraper-no-login",
+    "apiBaseUrl": "https://api.apify.com/v2/acts/datascraperes~instagram-profile-scraper-no-login",
+    "description": "Public Instagram profile data including biography, audience counts, verification, links, images and available business signals."
+  },
+  "affiliate": {
+    "enabled": true,
+    "parameter": "fpr=edudata",
+    "actorUrl": "https://apify.com/datascraperes/instagram-profile-scraper-no-login?fpr=edudata",
+    "pricingUrl": "https://apify.com/pricing?fpr=edudata"
+  },
+  "platform": {
+    "apifyFreePlan": {
+      "monthlyPrepaidUsage": "$5",
+      "renewsMonthly": true,
+      "noCreditCardRequired": true,
+      "unusedCreditsExpire": true,
+      "sourceUrl": "https://apify.com/pricing?fpr=edudata"
+    }
+  },
+  "interfaces": {
+    "web": {
+      "enabled": true,
+      "inputTab": "Input",
+      "outputTab": "Dataset",
+      "runAction": "Start",
+      "primaryInput": "profiles",
+      "inputLabel": "Instagram profiles",
+      "inputSummary": "Add public Instagram usernames, @handles or complete profile URLs.",
+      "exportFormats": [
+        "JSON",
+        "CSV",
+        "Excel",
+        "JSONL"
+      ]
+    },
+    "api": {
+      "enabled": true,
+      "examples": [
+        "cURL",
+        "Python",
+        "JavaScript"
+      ]
+    }
+  },
+  "seo": {
+    "primaryKeyword": "instagram profile scraper",
+    "secondaryKeywords": [
+      "scrape instagram profiles",
+      "instagram profile scraper python",
+      "instagram profile data api",
+      "export instagram profile data"
+    ],
+    "topics": [
+      "instagram",
+      "instagram-scraper",
+      "profile-data",
+      "social-media",
+      "web-scraping",
+      "apify",
+      "python"
+    ],
+    "longTailIntents": [
+      "how to scrape Instagram profiles with Python",
+      "how to scrape Instagram profiles without login",
+      "Instagram profile data API JSON example",
+      "export Instagram profile data to CSV"
+    ]
+  },
+  "content": {
+    "readmeSectionOrder": [
+      "What this repository helps you do",
+      "Example result",
+      "Run without code",
+      "Try it with Apify's free plan",
+      "Quick start for developers",
+      "Input example",
+      "Request examples",
+      "Output fields",
+      "Common use cases",
+      "Long-tail use-case sections",
+      "FAQ",
+      "Limits and pricing",
+      "Hosted version",
+      "Responsible use",
+      "Support"
+    ],
+    "exampleFiles": [
+      "examples/python/instagram_profile_scraper.py",
+      "examples/python/batch_instagram_profiles.py",
+      "examples/python/export_instagram_profiles_csv.py"
+    ],
+    "faqFile": "docs/faq.md",
+    "noCodeGuideFile": "docs/no-code-guide.md"
+  },
+  "pricing": {
+    "summary": "$1.00 per 1,000 successfully returned public profiles",
+    "unit": "one delivered profile-result Dataset item",
+    "price": "$0.001 per successful public profile"
+  },
+  "distribution": {
+    "githubUrl": "https://github.com/datacrawler-edu/instagram-profile-scraper",
+    "actorToGithubUrl": "https://github.com/datacrawler-edu/instagram-profile-scraper",
+    "githubToActorUrl": "https://apify.com/datascraperes/instagram-profile-scraper-no-login?fpr=edudata",
+    "organizationHubUrl": "https://github.com/datacrawler-edu",
+    "firstRelease": {
+      "tag": "v0.1.0",
+      "title": "Initial Instagram profile scraping examples"
+    }
+  },
+  "examples": {
+    "inputFile": "data/sample-input.json",
+    "outputFile": "data/sample-output.json",
+    "csvFile": "data/sample-output.csv"
+  },
+  "measurement": {
+    "observationWindowDays": 30,
+    "githubSignals": [
+      "views",
+      "uniqueVisitors",
+      "clones",
+      "referrers",
+      "popularContent"
+    ],
+    "apifySignals": [
+      "users",
+      "runs",
+      "datasetItems",
+      "revenue"
+    ],
+    "searchChecks": [
+      "site:github.com/datacrawler-edu/instagram-profile-scraper",
+      "instagram profile scraper",
+      "instagram profile scraper python"
+    ]
+  },
+  "support": {
+    "issuesUrl": "https://github.com/datacrawler-edu/instagram-profile-scraper/issues",
+    "actorSupportUrl": "https://apify.com/datascraperes/instagram-profile-scraper-no-login?fpr=edudata"
+  }
+}
+

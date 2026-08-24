@@ -1,0 +1,67 @@
+[
+  {
+    "success": true,
+    "status": "ok",
+    "input": "nasa",
+    "username": "nasa",
+    "profileUrl": "https://www.instagram.com/nasa/",
+    "duplicateOf": null,
+    "scrapedAt": "2026-08-24T07:35:40.405440Z",
+    "attempts": 1,
+    "responseTimeMs": 1967,
+    "httpRequests": 2,
+    "responseBytes": 820071,
+    "backoffTimeMs": 0,
+    "throttleWaitTimeMs": 0,
+    "error": null,
+    "profile": {
+      "id": "528817151",
+      "username": "nasa",
+      "fullName": "NASA",
+      "biography": "Making the seemingly impossible, possible. ✨",
+      "followersCount": 104429356,
+      "followsCount": 92,
+      "postsCount": 4888,
+      "isVerified": true,
+      "isPrivate": false,
+      "isBusinessAccount": false,
+      "isProfessionalAccount": null,
+      "accountType": 2,
+      "accountTypeName": "business",
+      "category": null,
+      "externalUrl": "https://www.nasa.gov",
+      "bioLinks": [
+        {
+          "title": "NASA.gov Homepage",
+          "url": "https://www.nasa.gov",
+          "linkType": "external"
+        },
+        {
+          "title": "Nancy Grace Roman Space Telescope",
+          "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+          "linkType": "external"
+        },
+        {
+          "title": "NASA Internships",
+          "url": "http://intern.nasa.gov",
+          "linkType": "external"
+        },
+        {
+          "title": "MAX POWER",
+          "url": "https://www.nasa.gov/maxpower",
+          "linkType": "external"
+        }
+      ],
+      "profilePicUrl": "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/29090066_159271188110124_1152068159029641216_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eSDslL9gydgQ7kNvwFw4idb&_nc_oc=AdqNzCyXPffatP_RwEeG5gV5ZRW5EBvY4dRXUqBlEhnUcUtgl1AJkHVhH6AD0P68ALI&_nc_zt=24&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_ss=7fa02&oh=00_AQG3s8-Y7J1pRgZ3ApNhFDwiPb9yI_oFlfpriptxeJb5Bw&oe=6A91B069",
+      "profilePicUrlHD": "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/29090066_159271188110124_1152068159029641216_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eSDslL9gydgQ7kNvwFw4idb&_nc_oc=AdqNzCyXPffatP_RwEeG5gV5ZRW5EBvY4dRXUqBlEhnUcUtgl1AJkHVhH6AD0P68ALI&_nc_zt=24&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_ss=7fa02&oh=00_AQEyEC5Sgjt2vIpDPwlIHfhdUUaIvQWvXoFnziyUErXBfg&oe=6A91B069",
+      "pronouns": [],
+      "location": null,
+      "dataQuality": {
+        "availableCoreFields": 8,
+        "totalCoreFields": 8,
+        "level": "full"
+      }
+    }
+  }
+]
+
