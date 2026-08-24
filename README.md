@@ -29,7 +29,7 @@ The complete verified item is available in [`data/sample-output.json`](data/samp
   "profile": {
     "fullName": "NASA",
     "biography": "Making the seemingly impossible, possible. ✨",
-    "followersCount": 104429356,
+    "followersCount": 104429166,
     "followsCount": 92,
     "postsCount": 4888,
     "isVerified": true,
@@ -192,4 +192,3 @@ For documentation or example problems, [open a GitHub issue](https://github.com/
 ## License
 
 Released under the MIT License.
-
